@@ -32,9 +32,9 @@ Requirements: your program must be commented and clear.
 Use [Scanner](https://www.w3schools.com/java/java_user_input.asp) to read from the keyboard.
 
 If
-`scan`
+`scanner`
 
 is a Scanner object, then
-`String inputStr = scan.nextLine();`
+`int inputNumber = scanner.nextLine();`
 
-will read an entire line from the keyboard, and copy it to the String inputStr.
+will read an integer from the keyboard, and copy it to the int inputNumber.

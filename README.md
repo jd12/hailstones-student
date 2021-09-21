@@ -35,6 +35,6 @@ If
 `scanner`
 
 is a Scanner object, then
-`int inputNumber = scanner.nextLine();`
+`int inputNumber = scanner.nextInt();`
 
 will read an integer from the keyboard, and copy it to the int inputNumber.
